@@ -99,17 +99,7 @@ git clone https://github.com/yagizterzi/HeartDiseaseRiskPrediction
 
 pip install -r requirements.txt
 
-1.  Train the model (already done, but can be re-run):
-    
-
-python train.py
-
-1.  Run the web application:
-    
-
-python app.py
-
-1.  Open your browser and navigate to 
+Either use models and run app.py directly or run train.py for creating new model and use that on app.py
     
 
 ### Using the Web Interface

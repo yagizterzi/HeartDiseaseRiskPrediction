@@ -92,7 +92,7 @@ Installation and Usage
 1.  Clone the repository:
     
 
-git clone https://github.com/yourusername/heart-disease-risk-prediction.gitcd heart-disease-risk-prediction
+git clone https://github.com/yagizterzi/HeartDiseaseRiskPrediction
 
 1.  Install dependencies:
     

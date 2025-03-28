@@ -131,19 +131,6 @@ Results
 -------
 
 The model achieves good classification performance, with detailed metrics provided in the training output. The clustering approach helps identify natural risk groups in the data, enhancing the interpretability of the predictions.
-
-Future Improvements
--------------------
-
-*   Adding more sophisticated models and ensemble techniques
-    
-*   Incorporating feature importance analysis
-    
-*   Enhancing the web interface with visualization of risk factors
-    
-*   Adding explanations for predictions
-    
-*   Deployment to a cloud platform for wider accessibility
     
 
 License
